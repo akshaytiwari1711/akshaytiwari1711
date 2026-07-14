@@ -1,102 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:4F46E5&height=250&section=header&text=Akshay%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:4F46E5&height=250&section=header&text=Akshay%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creator%20of%20FocusLens%20👁️&descAlignY=58&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Python+Developer;Computer+Vision+Enthusiast;Building+Behavioral+AI+Projects;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Creator+of+FocusLens;Computer+Vision+Enthusiast;Building+Behavioral+AI+Systems;Turning+Human+Attention+into+Data)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=akshaytiwari1711&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=akshaytiwari1711&style=for-the-badge&color=0E75B6"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hey, I'm Akshay Tiwari
 
-🎓 Third Year B.E. Artificial Intelligence & Data Science Student at Dr. D. Y. Patil Institute of Technology, Pune.
+🎓 Third Year B.E. Artificial Intelligence & Data Science Student.
 
-🧠 Interested in:
+🧠 Passionate about:
 
 - Artificial Intelligence
-- Machine Learning
 - Computer Vision
 - Human Computer Interaction
 - Behavioral AI
-- Real-Time Analytics
+- Productivity Analytics
 
-🌱 Currently Learning:
+🚀 Currently Building:
 
-- Deep Learning
-- Advanced Python
-- AI System Design
-- Backend Development
+# 👁️ FocusLens
 
-⚡ Goal:
-
-> Build impactful AI products that solve real-world problems.
+An AI-powered system that understands attention, focus and productivity using Computer Vision.
 
 ---
 
-# 💻 Tech Stack
+# 🧠 About FocusLens
+
+> Making productivity measurable through AI.
+
+FocusLens analyzes user attention patterns in real time and generates insights about focus and productivity.
+
+### Features
+
+✅ Face Detection
+
+✅ Eye Gaze Tracking
+
+✅ Head Pose Estimation
+
+✅ Posture Analysis
+
+✅ Attention Scoring
+
+✅ Productivity Dashboard
+
+✅ Privacy First (Local Processing)
+
+---
+
+# ⚙️ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge"/>
+
 </div>
-
-### Libraries & Frameworks
-
-- OpenCV
-- MediaPipe
-- Streamlit
-- Pandas
-- Matplotlib
-- Jupyter Notebook
-- Google Colab
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 Attention Span Tracker
-
-Real-time Computer Vision and Behavioral AI system that monitors user attention and productivity.
-
-### Features
-
-✅ Face Detection  
-✅ Gaze Tracking  
-✅ Posture Analysis  
-✅ Attention Scoring  
-✅ Productivity Analytics Dashboard
-
-**Tech Used**
+## 👁️ FocusLens
 
 ```txt
-Python • OpenCV • MediaPipe • HTML • CSS • JavaScript
+AI Powered Attention Monitoring System
 ```
+
+### Built Using
+
+```txt
+Python
+OpenCV
+MediaPipe
+Streamlit
+Pandas
+Matplotlib
+HTML
+CSS
+JavaScript
+```
+
+### Current Goals
+
+- Real-time Attention Detection
+- Productivity Analytics
+- Distraction Identification
+- Deep Learning Models
+- Focus Prediction
+- Browser Extension Support
 
 ---
 
 ## 💰 Smart Expense Tracker
 
-A web-based expense tracking dashboard that helps users manage and analyze daily expenses.
+A web-based expense tracking dashboard.
 
-🔗 Live Demo:
-
-https://expense-akshay.streamlit.app
+🔗 https://expense-akshay.streamlit.app
 
 ### Features
 
-✅ Expense Categorization  
-✅ Data Storage  
-✅ Interactive Graphs  
-✅ Spending Analytics
+- Expense Categorization
+- Spending Analytics
+- Interactive Charts
+- Data Visualization
 
-**Tech Used**
+---
+
+# 🛣️ Future Roadmap
 
 ```txt
-Python • Streamlit • Pandas • Matplotlib
+☐ Deep Learning Attention Models
+☐ AI Productivity Reports
+☐ Browser Extension
+☐ Weekly Focus Insights
+☐ Mobile Companion App
+☐ Personalized AI Recommendations
 ```
 
 ---
@@ -109,13 +142,13 @@ VS Technosoft LLP
 📅 Jan 2026 – Feb 2026
 
 - Developed Python applications
-- Built Streamlit dashboards
+- Built analytics dashboards
+- Implemented visualization systems
 - Worked on deployment and debugging
-- Implemented analytics and visualization features
 
 ---
 
-# 🏆 Leadership & Activities
+# 🏆 Leadership
 
 📢 Social Media Head — S4DS
 
@@ -125,15 +158,27 @@ VS Technosoft LLP
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaytiwari1711&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaytiwari1711&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaytiwari1711&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaytiwari1711&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaytiwari1711&layout=compact&theme=tokyonight"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaytiwari1711&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaytiwari1711&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -149,7 +194,7 @@ VS Technosoft LLP
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/akshay-tiwari-107458290/">
+<a href="https://www.linkedin.com/in/akshay-tiwari-107458290">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -167,7 +212,11 @@ VS Technosoft LLP
 
 <div align="center">
 
-### ⭐ Building AI products one project at a time.
+## 👁️ FocusLens
+
+### Understanding Human Attention Through AI
+
+⭐ Building impactful AI products one project at a time.
 
 </div>
 
