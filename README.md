@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:4F46E5&height=250&section=header&text=Akshay%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:4F46E5&height=250&section=header&text=Akshay%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20|%20Python%20Developer&descAlignY=58&descSize=20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Creator+of+FocusLens;Computer+Vision+Enthusiast;Building+Behavioral+AI+Systems;Turning+Human+Attention+into+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Python+Developer;Computer+Vision+Enthusiast;Creator+of+FocusLens;Building+AI+Projects+for+Real+Problems)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=akshaytiwari1711&style=for-the-badge&color=0E75B6"/>
+<img src="https://komarev.com/ghpvc/?username=akshaytiwari1711&style=for-the-badge"/>
 
 </div>
 
@@ -12,29 +12,71 @@
 
 # 👋 Hey, I'm Akshay Tiwari
 
-🎓 Third Year B.E. Artificial Intelligence & Data Science Student.
-
-🧠 Passionate about:
-
-- Artificial Intelligence
-- Computer Vision
-- Human Computer Interaction
-- Behavioral AI
-- Productivity Analytics
-
-🚀 Currently Building:
-
-# 👁️ FocusLens
-
-An AI-powered system that understands attention, focus and productivity using Computer Vision.
+🎓 Third Year B.E. Student in **Artificial Intelligence & Data Science**
+at **Dr. D. Y. Patil Institute of Technology, Pune.**
 
 ---
 
-# 🧠 About FocusLens
+## 🚀 About Me
 
-> Making productivity measurable through AI.
+```python
+class AkshayTiwari:
 
-FocusLens analyzes user attention patterns in real time and generates insights about focus and productivity.
+    def __init__(self):
+
+        self.role = "AI & Data Science Student"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Computer Vision",
+            "Machine Learning",
+            "Behavioral AI",
+            "Human Computer Interaction"
+        ]
+
+        self.current_project = "FocusLens"
+
+        self.goal = "Build impactful AI products."
+```
+
+---
+
+### 🧠 Currently Working On
+
+- 👁️ FocusLens
+- 🤖 Computer Vision Projects
+- 📊 Productivity Analytics
+- 📚 Learning Deep Learning & ML
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js"/>
+
+</div>
+
+### Libraries & Frameworks
+
+- OpenCV
+- MediaPipe
+- Streamlit
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- Google Colab
+
+---
+
+# 🌟 Featured Project
+
+# 👁️ FocusLens
+
+> Understanding Human Attention Through AI.
+
+FocusLens is an AI-powered attention and productivity monitoring system that analyzes user focus patterns in real time.
 
 ### Features
 
@@ -54,63 +96,28 @@ FocusLens analyzes user attention patterns in real time and generates insights a
 
 ---
 
-# ⚙️ Tech Stack
+### Tech Used
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MediaPipe-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge"/>
-
-</div>
+```txt
+Python • OpenCV • MediaPipe • Streamlit
+HTML • CSS • JavaScript
+```
 
 ---
 
-# 🚀 Featured Projects
-
-## 👁️ FocusLens
+### Vision
 
 ```txt
-AI Powered Attention Monitoring System
+Making productivity measurable using AI and Computer Vision.
 ```
-
-### Built Using
-
-```txt
-Python
-OpenCV
-MediaPipe
-Streamlit
-Pandas
-Matplotlib
-HTML
-CSS
-JavaScript
-```
-
-### Current Goals
-
-- Real-time Attention Detection
-- Productivity Analytics
-- Distraction Identification
-- Deep Learning Models
-- Focus Prediction
-- Browser Extension Support
 
 ---
+
+# 🚀 Other Projects
 
 ## 💰 Smart Expense Tracker
 
-A web-based expense tracking dashboard.
-
-🔗 https://expense-akshay.streamlit.app
+A web-based expense management dashboard.
 
 ### Features
 
@@ -119,18 +126,7 @@ A web-based expense tracking dashboard.
 - Interactive Charts
 - Data Visualization
 
----
-
-# 🛣️ Future Roadmap
-
-```txt
-☐ Deep Learning Attention Models
-☐ AI Productivity Reports
-☐ Browser Extension
-☐ Weekly Focus Insights
-☐ Mobile Companion App
-☐ Personalized AI Recommendations
-```
+🔗 https://expense-akshay.streamlit.app
 
 ---
 
@@ -141,20 +137,31 @@ VS Technosoft LLP
 
 📅 Jan 2026 – Feb 2026
 
-- Developed Python applications
-- Built analytics dashboards
-- Implemented visualization systems
+- Built Python applications
+- Developed Streamlit dashboards
 - Worked on deployment and debugging
+- Created analytics and visualization systems
 
 ---
 
-# 🏆 Leadership
+# 🏆 Leadership & Activities
 
 📢 Social Media Head — S4DS
 
 📢 Social Media Head — Byteminds
 
 🎬 Video Editor — GDG
+
+---
+
+# 📈 Current Learning Journey
+
+```txt
+Python            ██████████ 100%
+Computer Vision   ████████░░ 80%
+Machine Learning  ██████░░░░ 60%
+Deep Learning     ████░░░░░░ 40%
+```
 
 ---
 
@@ -184,12 +191,6 @@ VS Technosoft LLP
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/akshaytiwari1711/akshaytiwari1711/output/github-contribution-grid-snake-dark.svg)
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -205,18 +206,6 @@ VS Technosoft LLP
 <a href="https://github.com/akshaytiwari1711">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## 👁️ FocusLens
-
-### Understanding Human Attention Through AI
-
-⭐ Building impactful AI products one project at a time.
 
 </div>
 
