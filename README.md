@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/apitype=waving&color=0:00C2FF,100:4F46E5&height=250&section=header&text=Akshay%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:4F46E5&height=250&section=header&text=Akshay%20Tiwari&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Python+Developer;Computer+Vision+Enthusiast;Building+Behavioral+AI+Projects;Always+Learning+Something+New)](https://git.io/typing-svg)
 
